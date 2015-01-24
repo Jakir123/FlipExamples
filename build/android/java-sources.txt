@@ -1,0 +1,8 @@
+"D:/Titanium_Resources/ti_workspace/FlipExamples/build/android/gen/android/support/v7/appcompat/R.java"
+"D:/Titanium_Resources/ti_workspace/FlipExamples/build/android/gen/com/jakir/flipexamples/ApplicationStylesheet.java"
+"D:/Titanium_Resources/ti_workspace/FlipExamples/build/android/gen/com/jakir/flipexamples/AssetCryptImpl.java"
+"D:/Titanium_Resources/ti_workspace/FlipExamples/build/android/gen/com/jakir/flipexamples/FlipexamplesActivity.java"
+"D:/Titanium_Resources/ti_workspace/FlipExamples/build/android/gen/com/jakir/flipexamples/FlipexamplesAppInfo.java"
+"D:/Titanium_Resources/ti_workspace/FlipExamples/build/android/gen/com/jakir/flipexamples/FlipexamplesApplication.java"
+"D:/Titanium_Resources/ti_workspace/FlipExamples/build/android/gen/com/jakir/flipexamples/R.java"
+"D:/Titanium_Resources/ti_workspace/FlipExamples/build/android/gen/ti/modules/titanium/ui/R.java"
